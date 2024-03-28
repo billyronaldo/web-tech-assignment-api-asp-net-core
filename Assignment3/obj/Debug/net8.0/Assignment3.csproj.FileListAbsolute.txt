@@ -251,3 +251,4 @@ C:\Users\ronal\source\repos\Assignment3\Assignment3\bin\Debug\net8.0\runtimes\wi
 C:\Users\ronal\source\repos\Assignment3\Assignment3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\ronal\source\repos\Assignment3\Assignment3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\ronal\source\repos\Assignment3\Assignment3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\ronal\source\repos\Assignment3\Assignment3\obj\Debug\net8.0\Assignment3.sourcelink.json

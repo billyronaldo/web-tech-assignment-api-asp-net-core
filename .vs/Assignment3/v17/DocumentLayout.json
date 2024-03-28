@@ -78,11 +78,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -152,7 +156,7 @@
               "RelativeDocumentMoniker": "Assignment3\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\ronal\\source\\repos\\Assignment3\\Assignment3\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Assignment3\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAFAAAA",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAcwGwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T21:32:26.624Z",
               "EditorCaption": ""
@@ -288,10 +292,6 @@
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T15:30:19.226Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
